@@ -110,5 +110,4 @@ if __name__ =="__main__":
 	quantum = 2;
 	findavgTime(proc, n, burst_time, quantum)
 
-# This code is contributed by
-# Shubham Singh(SHUBHAMSINGH10)
+
